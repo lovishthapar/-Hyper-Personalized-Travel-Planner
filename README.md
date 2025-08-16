@@ -18,3 +18,5 @@ The Wedge
 Focus on a specific travel niche, such as planning honeymoons, family trips to theme parks, or
 backpacking adventures. Build a community around this niche and use their feedback to perfect the
 AI's recommendations, then scale to other types of travel.
+check out the working version 
+https://travelplannerai1.streamlit.app
